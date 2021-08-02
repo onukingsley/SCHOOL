@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd148326-1f40-41a3-9939-66577c19af09" name="Default Changelist" comment="" />
+    <list default="true" id="cd148326-1f40-41a3-9939-66577c19af09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/A.fonts,,_icomoon,,_style.css+css,,_bootstrap.min.css+css,,_jquery-ui.css+css,,_owl.carousel.min.css+css,,_owl.theme.default.min.css+css,,_owl.theme.defaul" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/A.jquery.mb.YTPlayer.min.css.pagespeed.cf.N2G3N4O1x5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/A.style.css.pagespeed.cf.SghS18xLJ1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/font/ytp-regular.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/ui-bg_glass_75_d0e5f5_1x400.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/ui-bg_glass_85_dfeffc_1x400.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/ui-bg_gloss-wave_55_5c9ccc_500x100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/ui-bg_inset-hard_100_f5f8f9_1x100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/owl.video.play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts,_icomoon,_style.css+css,_bootstrap.min.css+css,_jquery-ui.css+css,_owl.carousel.min.css+css,_owl.theme.default.min.css+css,_owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticond41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/icomoon/fonts/icomoon1a44.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/icomoon/fonts/icomoon1a44.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/icomoon/fonts/icomoon1a44.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/icomoon/fonts/icomoon1a44.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/about_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xbg_1.jpg.pagespeed.ic.bYKh1zv1gk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xblog_1.jpg.pagespeed.ic.W_YnMVf_Za.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xblog_2.jpg.pagespeed.ic.Zqzj4W2tE3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xblog_large_1.jpg.pagespeed.ic.i8Gx2Hw_Ng.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xcourse_1.jpg.pagespeed.ic.LYi2PrMv7M.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xcourse_2.jpg.pagespeed.ic.yVix3ISSKT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xcourse_3.jpg.pagespeed.ic.mhpEN47Qcr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xcourse_4.jpg.pagespeed.ic.tqNvuJbiJI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xcourse_5.jpg.pagespeed.ic.rI86ZBarTv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xcourse_6.jpg.pagespeed.ic.dzMG9vk6VZ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xhero_1.jpg.pagespeed.ic.-yaFVozZ39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xlogo.jpg.pagespeed.ic.fRho2_GusO.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xlogo.png.pagespeed.ic.WY-5IeVnFD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xperson_1.jpg.pagespeed.ic.ek_oXY_vZr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xperson_2.jpg.pagespeed.ic.ZhHlp5WpL3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xperson_3.jpg.pagespeed.ic.riM5PEA8y7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/xperson_4.jpg.pagespeed.ic.R9GIPEe4kr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-datepicker.min.js+jquery.easing.1.3.js+aos.js.pagespeed.jc.shTa_9g-oO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery-migrate-3.0.1.min.js+jquery-ui.js+popper.min.js.pagespeed.jc.XaLWx32sRV.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.fancybox.min.js+jquery.sticky.js.pagespeed.jc.QErZfwMaqU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.mb.YTPlayer.min.js+main.js.pagespeed.jc.yhTxC-d_2A.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/owl.carousel.min.js+jquery.stellar.min.js+jquery.countdown.min.js.pagespeed.jc.EWz_dkT7J4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/admissions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/course-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/courses-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/courses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/layouts/footer.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/layouts/header.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/news-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/teachers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +83,16 @@
   <component name="ProjectId" id="1wBj3zvAzfGZeCDflpI1wCD9wgu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/layouts" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Documents\PycharmProjects\school\templates\layouts" />
+      <recent name="C:\Users\Dell\Documents\PycharmProjects\school\static" />
+      <recent name="C:\Users\Dell\Documents\PycharmProjects\school\templates" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,11 +133,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627938680115</updated>
-      <workItem from="1627938686067" duration="444000" />
+      <workItem from="1627938686067" duration="5126000" />
     </task>
+    <task id="LOCAL-00001" summary="Just normal flask project">
+      <created>1627939161083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627939161083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Just normal flask project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just normal flask project" />
   </component>
 </project>
