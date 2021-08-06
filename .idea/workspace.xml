@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd148326-1f40-41a3-9939-66577c19af09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/A.style.css.pagespeed.cf.SghS18xLJ1.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/A.style.css.pagespeed.cf.SghS18xLJ1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts,_icomoon,_style.css+css,_bootstrap.min.css+css,_jquery-ui.css+css,_owl.carousel.min.css+css,_owl.theme.default.min.css+css,_owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts,_icomoon,_style.css+css,_bootstrap.min.css+css,_jquery-ui.css+css,_owl.carousel.min.css+css,_owl.theme.default.min.css+css,_owl.theme.default.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/layouts/header.jinja2" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layouts/header.jinja2" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +19,7 @@
       <list>
         <option value="Flask Main" />
         <option value="Python Script" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -29,6 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/layouts" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -84,7 +88,7 @@
       <workItem from="1628109196204" duration="4188000" />
       <workItem from="1628189973570" duration="1110000" />
       <workItem from="1628195997831" duration="3763000" />
-      <workItem from="1628248686941" duration="4403000" />
+      <workItem from="1628248686941" duration="6005000" />
     </task>
     <task id="LOCAL-00001" summary="Just normal flask project">
       <created>1627939161083</created>
@@ -107,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628199188932</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added our mega menu">
+      <created>1628253621402</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628253621402</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +141,7 @@
     <MESSAGE value="Just normal flask project" />
     <MESSAGE value="Added layout and pages" />
     <MESSAGE value="Added our single menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added our single menu" />
+    <MESSAGE value="Added our mega menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added our mega menu" />
   </component>
 </project>
