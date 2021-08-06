@@ -49,20 +49,34 @@
                 <div class="mr-auto">
                     <nav class="site-navigation position-relative text-right" role="navigation">
                         <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-{#                            <li class="active">#}
-{#                                <a href="index.html" class="nav-link text-left"><i class="icon-books"></i> Home</a>#}
-{#                            </li>#}
-{#                            <li class="has-children">#}
-{#                                <a href="about.html" class="nav-link text-left">About Us</a>#}
-{#                                <ul class="dropdown">#}
-{#                                    <li><a href="teachers.html">Our Teachers</a></li>#}
-{#                                    <li><a href="about.html">Our School</a></li>#}
-{#                                </ul>#}
-{#                            </li>#}
+                            {#                            <li class="active">#}
+                            {#                                <a href="index.html" class="nav-link text-left"><i class="icon-books"></i> Home</a>#}
+                            {#                            </li>#}
+                            {#                            <li class="has-children">#}
+                            {#                                <a href="about.html" class="nav-link text-left">About Us</a>#}
+                            {#                                <ul class="dropdown">#}
+                            {#                                    <li><a href="teachers.html">Our Teachers</a></li>#}
+                            {#                                    <li><a href="about.html">Our School</a></li>#}
+                            {#                                </ul>#}
+                            {#                            </li>#}
                             {% for foo in info['menu'] %}
-                                 <li>
-                                     <a href="{{ foo }}" class="nav-link text-left"><i class="icon-{{ info['menu'][foo][0] }}"></i> {{ info['menu'][foo][1] }}</a>
-                            </li>
+                                {% if info['menu'][foo][2] %}
+                                    <li class="has-children">
+                                        <a href="{{ foo }}" class="nav-link text-left"><i class="icon-{{ info['menu'][foo][0] }}"></i> {{ info['menu'][foo][1] }}</a>
+                                        <ul class="dropdown">
+{#                                            <li><a href="teachers.html">Our Teachers</a></li>#}
+                                            {% for menu in info['menu'][foo][2] %}
+                                                <li><a href="{{ replacer(menu, ' ', '_') }}">{{ menu|title }}</a></li>
+                                            {% endfor %}
+
+                                        </ul>
+                                    </li>
+                                {% else %}
+                                    <li>
+                                        <a href="{{ foo }}" class="nav-link text-left"><i class="icon-{{ info['menu'][foo][0] }}"></i> {{ info['menu'][foo][1] }}</a>
+                                    </li>
+                                {% endif %}
+
                             {% endfor %}
                         </ul>
                     </nav>
@@ -78,7 +92,7 @@
             </div>
         </div>
     </header>
-    {% if pg['title'] == 'Welcome'%}
+    {% if pg['title'] == 'Welcome' %}
         <div class="hero-slide owl-carousel site-blocks-cover">
             <div class="intro-section" style="background-image:url(/static/images/xhero_1.jpg.pagespeed.ic.-yaFVozZ39.jpg)">
                 <div class="container">

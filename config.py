@@ -11,7 +11,7 @@ details = {
 menu = {
     '.': ['home2', 'Home'],
     'about': ['address-book', 'About Us'],
-    'campus': ['building', 'Our Campus'],
-    'courses': ['library_books', 'Our Courses'],
+    'campus': ['building', 'Our Campus', ['academics', 'news', 'our interns', 'our leadership', 'careers', 'human resources']],
+    'courses': ['library_books', 'Our Courses', ['math', 'science & engineering', 'arts & humanities', 'economics & finance', 'business administration', 'computer science']],
     'contact': ['phone_android', 'Contact']
 }
